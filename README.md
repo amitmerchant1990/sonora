@@ -1,5 +1,7 @@
 # Sonora
 
+![Sonora Banner](assets/banner.png)
+
 Sonora is a minimal Chrome extension for mixing ambient sounds. It lets you play multiple layers at the same time and control the volume of each one independently.
 
 ## Features
