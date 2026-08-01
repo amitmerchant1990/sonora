@@ -4,6 +4,8 @@
 
 Sonora is a minimal Chrome extension for mixing ambient sounds. It lets you play multiple layers at the same time and control the volume of each one independently.
 
+[Install it from the Chrome Webstore](https://chromewebstore.google.com/detail/aomipjfbinoopinpmickhecbijdffkeo?utm_source=item-share-cb)
+
 ## Features
 
 - Click the extension icon to open the mixer
@@ -45,4 +47,4 @@ Sonora means resounding, sonorous, or pleasant-sounding, derived from the Spanis
 
 ## Support
 
-If you enjoy Sonora, use the **Buy Me a Coffee** link in the about panel.
+If you enjoy Sonora, you can support the project by [buying me a coffee](https://www.buymeacoffee.com/amitmerchant).
